@@ -21,3 +21,64 @@ Backend: PHP
 📂 Project Purpose
 
 This project was created as part of my high school coursework, giving me my first hands-on experience with web technologies and laying the foundation for my interest in software development.
+
+## 📸 Screenshots  
+
+### 🔑 Authentication  
+- **Login Page**  
+![Login](screenshots/LoginPage.png)  
+
+- **Sign Up Page**  
+![Sign Up](screenshots/SignUpPage.png)  
+
+---
+
+### 🧑‍💻 User Dashboard  
+![User Dashboard](screenshots/UserDashboard.png)  
+
+---
+
+### 👥 Participant Management  
+- **List of Participants**  
+![List Participant](screenshots/ListParticipant.png)  
+
+- **Add Participant**  
+![Add Participant](screenshots/addParticipant.png)  
+
+- **Full Participant Marks**  
+![Full Participant Marks](screenshots/FullParticipantMark.png)  
+
+---
+
+### ⚖️ Judge Management  
+- **List of Judges**  
+![List Judge](screenshots/ListJudge.png)  
+
+- **Add Judge**  
+![Add Judge](screenshots/addJudge.png)  
+
+- **List for the Judge**  
+![List Participant For The Judge](screenshots/ListParticipantForTheJudge.png)  
+
+---
+
+### 📊 Marking System  
+- **Add Aspect for Mark**  
+![Add Aspect](screenshots/addAspectForMark.png)  
+
+- **Add Mark Page**  
+![Add Mark Page](screenshots/AddMarkPage.png)  
+
+---
+
+### 📂 Data & Committee Management  
+- **List Urusetia (Committee)**  
+![List Urusetia](screenshots/ListUrusetia.png)  
+
+- **Add Urusetia**  
+![Add Urusetia](screenshots/addUrusetia.png)  
+
+- **Import Data**  
+![Import Data](screenshots/importData.png)  
+
+---
